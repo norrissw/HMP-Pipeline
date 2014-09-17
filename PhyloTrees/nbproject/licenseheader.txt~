@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix} Created for InSilico modeling for the purpose of generating phylotrees of the Influenza Strains selected for this paper/project.
+${licensePrefix}References used are the BioJava and Foreset Cookbooks ${licensePrefix}
+<#if licenseLast??>
+${licenseLast} Created by Shaun Norris, VCU Bioinformatics MS Candidate
+</#if>

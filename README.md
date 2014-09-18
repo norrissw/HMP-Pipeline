@@ -1,2 +1,2 @@
-This is a small sample of programs I've written/contirbuted to in java
+This a collection of java programs I work/worked with.
 -SN
